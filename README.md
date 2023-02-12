@@ -24,7 +24,7 @@
 
 * Windows 7 и выше
 * Linux (Debian, RedHat). Ubuntu 18 и выше, Fedora 28 и выше
-* Mac OSX 10.12+ (с процессором архитектуры x86 или M1)
+* Mac OSX 10.12+ (с процессором архитектуры M1)
 
 # Screenshots
 
